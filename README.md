@@ -49,7 +49,7 @@ function setup()
 ## Summary
 - [3. Courbes en coordonnées polaires](#3-courbes-en-coordonnées-polaires)
 - [4. Von Koch, Cantor et Tapis fractals](#4-vonkoch-cantor-et-tapis-fractals)
-  - [Le programme FLOCONS DE VON KOCH](#le-programme-flocons-de-vonkoch)    
+  - [Le programme FLOCONS DE VON KOCH](#le-programme-flocons-de-von-koch)    
   - [Le programme CANTOR](#le-programme-cantor)    
   - [Le programme TAPIS FRACTALS](#le-programme-tapis-fractals)    
 - [5. Champs](#5-champs)
