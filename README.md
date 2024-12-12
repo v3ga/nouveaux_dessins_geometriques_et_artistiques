@@ -47,8 +47,8 @@ function setup()
 }
 ```
 ## Summary
-- [3. Courbes en coordonnées polaires](#3-courbes-coordonnées-polaires)
-- [4. Von Koch, Cantor et Tapis fractals](#4-vonkoch-cantor-tapis-fractals)
+- [3. Courbes en coordonnées polaires](#3-courbes-en-coordonnées-polaires)
+- [4. Von Koch, Cantor et Tapis fractals](#4-vonkoch-cantor-et-tapis-fractals)
 - [5. Champs](#5-champs)
 - [6. Transformations](#6-transformations)
 
