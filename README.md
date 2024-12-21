@@ -98,5 +98,6 @@ function setup()
 ## 8. Moirages et cubes en dimension K
 ### Le programme « LINÉAIRES MOIRAGES »
 <a href="https://editor.p5js.org/v3ga/sketches/pSWqMWSKA" target="_blank"/><img src="img/NOUVEAU_DESSIN_GEOMETRIQUE_213.png" width="200" title="NOUVEAU DESSIN 213" /><a href="https://editor.p5js.org/v3ga/sketches/pSWqMWSKA" target="_blank"/><img src="img/NOUVEAU_DESSIN_GEOMETRIQUE_214.png" width="200" title="NOUVEAU DESSIN 214" /><a href="https://editor.p5js.org/v3ga/sketches/pSWqMWSKA" target="_blank"/><img src="img/NOUVEAU_DESSIN_GEOMETRIQUE_215.png" width="200" title="NOUVEAU DESSIN 215" /><a href="https://editor.p5js.org/v3ga/sketches/pSWqMWSKA" target="_blank"/><img src="img/NOUVEAU_DESSIN_GEOMETRIQUE_216.png" width="200" title="NOUVEAU DESSIN 216" />
+### Le programme « CUBES EN DIMENSION K »
 
 
