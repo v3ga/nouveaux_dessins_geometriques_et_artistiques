@@ -4,7 +4,7 @@
 
 This repository presents programs written by french mathematician and computer scientist [Jean-Paul Delahaye](https://fr.wikipedia.org/wiki/Jean-Paul_Delahaye) in the book *"Nouveaux dessins géométriques et artistiques avec votre micro-ordinateur"* published in 1985 for the [Eyrolles](https://www.eyrolles.com/) french publishing house.<br />
 
-<img src="img/DESSIN_GEOMETRIQUE_155_NOUVEAU_FOND_JAUNE.png" width="200" /><img src="img/DESSIN_GEOMETRIQUE_134_NOUVEAU_FOND_BLEU.png" width="200" /><img src="img/DESSIN_GEOMETRIQUE_277_NOUVEAU_FOND_JAUNE.png" width="200" /><br /><img src="img/DESSIN_GEOMETRIQUE_265_NOUVEAU_FOND_BLEU.png" width="200" /><img src="img/DESSIN_GEOMETRIQUE_59_NOUVEAU_FOND_JAUNE.png" width="200" /><img src="img/DESSIN_GEOMETRIQUE_117_NOUVEAU_FOND_BLEU.png" width="200" />
+<img src="img/Nouveaux_dessins_géométriques_couverture.jpg" width="auto" height="350" style="max-width:100%" />
 
 The programs were originally programmed with Microsoft Basic for [Canon X-07](https://en.wikipedia.org/wiki/Canon_X-07) computer, outputs were drawn on a [Canon X710 plotter](http://pocket.free.fr/html/canon/x-710_f.html). They were recoded with [p5.js](https://p5js.org/), the online collection can be found [here](https://editor.p5js.org/v3ga/collections/ALPCSgG3E). You can click on each thumb to jump to the corresponding sketch. Be sure to edit the *DESSIN* variable in the program header.
 
