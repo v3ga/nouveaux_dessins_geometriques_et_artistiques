@@ -11,7 +11,7 @@ The programs were originally programmed with Microsoft Basic for [Canon X-07](ht
 
 I contacted Jean-Paul Delahaye who gave me access to links for downloading scans of the two editions of “Dessins géométriques”. He kindly allowed me to share them.<br />
 👉 [Dessins géométriques et artistiques avec votre micro-ordinateur](https://nextcloud.univ-lille.fr/index.php/s/R4PgSRWGyHEbDgG)<br />
-👉 [Nouveaux dessins géométriques et artistiques avec votre micro-ordinateur](https://nextcloud.univ-lille.fr/index.php/s/cwXAAokbbeaykW6)
+👉 [Nouveaux dessins géométriques et artistiques avec votre micro-ordinateur](https://nextcloud.univ-lille.fr/index.php/s/cwXAAokbbeaykW6)<br />
 👉 You can find the recoded sketches of the first book *"Dessins géométriques et artistiques avec votre micro-ordinateur"* here : https://github.com/v3ga/dessins_geometriques_et_artistiques<br />
 👉 A big thank you to [Jean-Noël Lafargue](https://hyperbate.fr/) for having kindly send to me the book and to [Éric Schrafstetter](https://www.youtube.com/schraf) for spotting bugs in some programs.
 
