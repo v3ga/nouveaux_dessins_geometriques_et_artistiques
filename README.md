@@ -29,9 +29,6 @@ I tried to be as close as possible as the original syntax, thus I developed a pa
 
 Some sketches were added a [translate](https://p5js.org/reference/#/p5/translate) command to center the drawing as it happened sometimes it was out of canvas bounds.
 
-## Issues
-- DESSIN 257  
-
 ### Example
 ```js
 let DESSIN = 30;
